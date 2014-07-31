@@ -1,6 +1,6 @@
 public class Rectangulo 
 {
-	// NO NECESITE NINGUNA FUENTE PARA DESARROLLARLO MAS QUE EL EJEMPLO SUNIDO A GITHUB
+	// NO NECESITE NINGUNA FUENTE PARA DESARROLLARLO MAS QUE EL EJEMPLO SUBIDO A GITHUB
 	// https://github.com/Ceutec/EjemploHerenciaSencilla/blob/master/src/Triangulo.java
 	
 	// Se crean las variables base y altura que actualmente tienen valor de 0
